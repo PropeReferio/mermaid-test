@@ -1,4 +1,5 @@
 ```mermaid
+graph
     A[Easter] -->|Get money| B(Go shopping)
     B --> C{Let me think}
     C -->|One| D[Laptop]
